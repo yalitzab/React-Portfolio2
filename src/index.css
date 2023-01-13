@@ -95,7 +95,7 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: var(--light);
 }
 
 header a {
@@ -181,12 +181,12 @@ header img {
   top: 0;
   left: 0;
   height: auto;
-  filter: sepia(1) opacity(60%);
+  /* filter: sepia(1) opacity(60%); */
 }
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
+  font-family: 'Poppins', cursive;
   font-size: 2.5rem;
   margin: 30px 20px;
 }

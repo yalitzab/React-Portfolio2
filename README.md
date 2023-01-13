@@ -98,3 +98,5 @@ You are required to submit BOTH of the following for review:
 * The URL of the functional, deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+* Disclaimer: All information on this website is for educational purpose only. Any action taken using the information on the website is strictly at your own risk. I will not be liable for any losses and/or damages to products with the use of the information on this website.
